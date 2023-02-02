@@ -1,0 +1,136 @@
+---------------------------------amazon_reviews_us_Digital_Video_Games_v1_00.tsv.gz---------------------------------
+Minimum word length of 3
+Removing Stop Words
+Using Snowball
+Using compression
+Word tokenization took 11.776615858078003 seconds
+Stemmer took 1.328141689300537 seconds
+Compression took 0.15616273880004883 seconds
+Indexing took 11.110992908477783 seconds
+
+'''''''''''
+10 temporary blocks
+Block merge took 3.1278488636016846 seconds
+Written final index in 0.15414047241210938 seconds
+Final index: 84970 terms. Total Time: 25.196093320846558
+Search for "game": (0.10509467124938965 seconds) 88221 reviews
+RSH1OZ87OYK92, R3B3UHK1FO0ERS, R2GVSDHW513SS1, R3FXXN2LFLLF49, R23NS4Q2ULC41G, R1HEHKYDT2ED2D, R2GRR6L62WH65R, R1IMWXLSA5GWZU, R1WJM3LUX5EBFE, R3AYRT4NAMQSZB...
+Index Size on Disk 30761657 bytes
+------------------------------------------------------------------
+---------------------------------amazon_reviews_us_Digital_Video_Games_v1_00.tsv.gz---------------------------------
+Minimum word length of 3
+Removing Stop Words
+Using Snowball
+Not Using Compression
+Word tokenization took 11.231659173965454 seconds
+Stemmer took 1.372276782989502 seconds
+Compression took 0 seconds
+Indexing took 14.272067546844482 seconds
+
+'''''''''''
+10 temporary blocks
+Block merge took 2.705709934234619 seconds
+Written final index in 0.21320223808288574 seconds
+Final index: 84970 terms. Total Time: 25.86374568939209
+Search for "game": (0.16515851020812988 seconds) 88221 reviews
+R1000KYJQW03FB, R1001BHT0TIGVT, R1006CHD2JHHCD, R1006U0VW69ADG, R1007PT85CIPMD, R1008A2TTPY6Z1, R100C9S2M3RQM5, R100GUO1Q8CMS9, R100M357GXPVJQ, R100MMGM389G8A...
+Index Size on Disk 58272853 bytes
+------------------------------------------------------------------
+---------------------------------amazon_reviews_us_Digital_Video_Games_v1_00.tsv.gz---------------------------------
+Minimum word length of 3
+Not Removing Stop Words
+Not Using Snowball
+Not Using Compression
+Word tokenization took 2.837985038757324 seconds
+Stemmer took 0 seconds
+Compression took 0 seconds
+Indexing took 25.406663179397583 seconds
+
+'''''''''''
+17 temporary blocks
+Block merge took 4.075702428817749 seconds
+Written final index in 0.26624178886413574 seconds
+Final index: 107560 terms. Total Time: 23.553983211517334
+Search for "game": (0.20709466934204102 seconds) 79258 reviews
+R1000KYJQW03FB, R1001BHT0TIGVT, R1006U0VW69ADG, R1007PT85CIPMD, R1008A2TTPY6Z1, R100C9S2M3RQM5, R100GUO1Q8CMS9, R100M357GXPVJQ, R100MMGM389G8A, R100Q0QQ90C8J0...
+Index Size on Disk 81435868 bytes
+------------------------------------------------------------------
+---------------------------------amazon_reviews_us_Digital_Music_Purchase_v1_00.tsv.gz---------------------------------
+Minimum word length of 3
+Removing Stop Words
+Using Snowball
+Using compression
+Word tokenization took 93.68483996391296 seconds
+Stemmer took 7.670727968215942 seconds
+Compression took 0.8743264675140381 seconds
+Indexing took 75.53220891952515 seconds
+
+'''''''''''
+123 temporary blocks
+Block merge took 40.99533271789551 seconds
+Written final index in 1.1227378845214844 seconds
+Final index: 500977 terms. Total Time: 210.07345056533813
+Search for "music": (1.2731564044952393 seconds) 423824 reviews
+R2E2AGC1T1IRL2, R39ZG8QII9GQYS, R1I5CYTB7KTPIN, R2WOU1RDPEW24K, R2JX6ZXEOOZBJH, R7EA0TEG2SBHS, RZKW1RG8XF01E, R3N49CBM3X4OLA, RPI2J5D8GVNAY, R3CLWHSGES33I3...
+Index Size on Disk 294788062 bytes
+------------------------------------------------------------------
+---------------------------------amazon_reviews_us_Digital_Music_Purchase_v1_00.tsv.gz---------------------------------
+Minimum word length of 3
+Removing Stop Words
+Using Snowball
+Not Using Compression
+Word tokenization took 85.65800404548645 seconds
+Stemmer took 7.613853931427002 seconds
+Compression took 0 seconds
+Indexing took 82.44807195663452 seconds
+
+'''''''''''
+123 temporary blocks
+Block merge took 37.46843862533569 seconds
+Written final index in 1.478341817855835 seconds
+Final index: 500977 terms. Total Time: 199.86695098876953
+Search for "music": (1.9047305583953857 seconds) 423824 reviews
+R1000OD0LQNA9M, R1000RLK5WR40Z, R10025S2EBK0IE, R1002DASFIA19R, R1002MOZKIICPG, R1002QHM1KV57X, R1003XTZPH5XKS, R1003Z2HOMW4BE, R1004UVHS63EU5, R1004YXTP8JPE...
+Index Size on Disk 492857986 bytes
+------------------------------------------------------------------
+---------------------------------amazon_reviews_us_Music_v1_00.tsv.gz---------------------------------
+Minimum word length of 3
+Removing Stop Words
+Using Snowball
+Using compression
+Word tokenization took 599.9961404800415 seconds
+Stemmer took 40.17152214050293 seconds
+Compression took 5.078184604644775 seconds
+Indexing took 414.7710168361664 seconds
+
+'''''''''''
+1253 temporary blocks
+Block merge took 912.742419719696 seconds
+Written final index in 32.24106240272522 seconds
+Final index: 2776509 terms. Total Time: 1969.6005313396454
+Search for "music": (7.9249701499938965 seconds) 1764446 reviews
+R3LGC3EKEG84PX, R30L5PET7LFFDC, R3JTJ5EQN74E9H, R35UL1YZ2142SL, R1Y5GX65Z2V9BG, R3C2J53J8UDDPW, R37RFLBIGKHA9L, R39NGBRCQYAJRH, R36TZRNCUMFI55, R1SEX6MZR5I9KN...
+Index Size on Disk 2005725574 bytes
+------------------------------------------------------------------
+
+
+---------------------------------amazon_reviews_us_Books_v1_00.tsv.gz---------------------------------
+Minimum word length of 3
+Removing Stop Words
+Using Snowball
+Using compression
+Word tokenization took 1008.3769905567169 seconds
+Stemmer took 39.905182123184204 seconds
+Compression took 4.897054433822632 seconds
+Indexing took 724.3911066055298 seconds
+
+'''''''''''
+1605 temporary blocks
+Block merge took 1851.1538932323456 seconds
+Written final index in 65.73473858833313 seconds
+Final index: 2616861 terms. Total Time: 3617.496063232422
+Search for "book": (7.920254945755005 seconds) 6587542 reviews
+RLCR1N2U34OHK, RZIF6ULKO0Q9H, R1OMB0IV418PGE, R33V7SC3979H01, R2NHFWPKNBR7EX, R2VBHVDZEC6CI, R2PPFX1R2JWCZI, R1ITKLHQ8KV5X4, R3O9HGJRG828CU, R1YGM00JHWB3S8...
+Index Size on Disk 3378698054 bytes
+------------------------------------------------------------------
+
