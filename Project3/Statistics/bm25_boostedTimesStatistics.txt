@@ -1,0 +1,1 @@
+Average query throughput 0.01735696806909818 sMedian query latency 57613.74890009562 ms

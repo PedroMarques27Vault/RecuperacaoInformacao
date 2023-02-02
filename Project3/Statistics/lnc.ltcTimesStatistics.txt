@@ -1,0 +1,2 @@
+Average query throughput 0.06877018816470502s
+Median query latency 14541.184584299723ms

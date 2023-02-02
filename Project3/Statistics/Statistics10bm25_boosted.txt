@@ -1,0 +1,105 @@
+
+Q:greatest rock album
+Precision: 0.4666666666666667
+Recall: 0.4375
+F_Measure: 0.45161290322580644
+nDCG: 0.677915996166001
+Average Precision: 0.8509090909090908
+
+Q:best live performance
+Precision: 0.5714285714285714
+Recall: 0.5333333333333333
+F_Measure: 0.5517241379310344
+nDCG: 0.5311292217834279
+Average Precision: 0.4575757575757575
+
+Q:guitar solo
+Precision: 0.55
+Recall: 0.55
+F_Measure: 0.55
+nDCG: 0.9363142956288519
+Average Precision: 1.0
+
+Q:christmas songs
+Precision: 0.2727272727272727
+Recall: 0.25
+F_Measure: 0.2608695652173913
+nDCG: 0.2300991327863587
+Average Precision: 0.1
+
+Q:elevator music
+Precision: 0.6470588235294118
+Recall: 0.6470588235294118
+F_Measure: 0.6470588235294118
+nDCG: 0.7190131876516085
+Average Precision: 0.765909090909091
+
+Q:balkan music
+Precision: 0.55
+Recall: 0.55
+F_Measure: 0.55
+nDCG: 0.9363142956288519
+Average Precision: 0.8984928651595318
+
+Q:worst buy
+Precision: 0.125
+Recall: 0.08333333333333333
+F_Measure: 0.1
+nDCG: 0.20625745699746098
+Average Precision: 1.0
+
+Q:70's country music
+Precision: 0.5714285714285714
+Recall: 0.6153846153846154
+F_Measure: 0.5925925925925927
+nDCG: 0.20187890652056598
+Average Precision: 0.25757575757575757
+
+Q:one hit wonder
+Precision: 0.5789473684210527
+Recall: 0.7333333333333333
+F_Measure: 0.6470588235294117
+nDCG: 0.5311292217834279
+Average Precision: 0.725
+
+Q:most underrated
+Precision: 0.5263157894736842
+Recall: 0.5263157894736842
+F_Measure: 0.5263157894736842
+nDCG: 0.8690213267886633
+Average Precision: 0.9472222222222222
+
+Q:several instruments
+Precision: 0.47058823529411764
+Recall: 0.6153846153846154
+F_Measure: 0.5333333333333333
+nDCG: 0.27505450811494986
+Average Precision: 0.35
+
+Q:abbey road studios
+Precision: 0.55
+Recall: 0.55
+F_Measure: 0.55
+nDCG: 0.9363142956288519
+Average Precision: 0.9765432098765433
+
+Q:easy listening
+Precision: 0.5
+Recall: 0.5294117647058824
+F_Measure: 0.5142857142857143
+nDCG: 0.7190131876516085
+Average Precision: 0.8708333333333332
+
+Q:great cover art
+Precision: 0.3333333333333333
+Recall: 0.08333333333333333
+F_Measure: 0.13333333333333333
+nDCG: 0.20187890652056598
+Average Precision: 0.14285714285714285
+
+Q:house party songs
+Precision: 0.625
+Recall: 0.5882352941176471
+F_Measure: 0.6060606060606061
+nDCG: 0.7613405700819178
+Average Precision: 0.9242424242424242
